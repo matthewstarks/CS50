@@ -1,1 +1,1 @@
-# CS50
+CS50 Final project portfolio website demo. Created in high school to put credentials in to put projects inside of. Very outdated. Extra README found in Frogal7-cs50-problems folder. 
